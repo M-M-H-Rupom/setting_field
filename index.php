@@ -63,7 +63,7 @@ function pqrc_radio_field(){
     }
 }
 function pqrc_minitoggle(){
-    echo '<div class="toggle"> toggle</div>';
+    echo '<div class="toggle">toggle</div>';
 }
 
 add_action("admin_init", "pqrc_field");
